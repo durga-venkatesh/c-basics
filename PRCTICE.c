@@ -9,7 +9,7 @@ void main()
 	//initialization
 	age=20;
 	cgpa=7.20;
-	initial='R';
+	initial='V';
 	
 	//output
 	printf("Age of the student is %d \n",age);
